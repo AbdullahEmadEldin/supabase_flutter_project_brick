@@ -1,0 +1,12 @@
+name: supabase_flutter_project_brick
+description: Scaffolds a complete Flutter project with Supabase, BLoC/HydratedBloc, GoRouter, get_it, dartz, easy_localization (EN/AR), and a custom theme system.
+version: 0.1.0+1
+environment:
+  mason: ">=0.1.0 <0.2.0"
+
+vars:
+  project_name:
+    type: string
+    description: The project name in snake_case (used as the Flutter package name)
+    default: my_app
+    prompt: "What is the project name? (snake_case)"

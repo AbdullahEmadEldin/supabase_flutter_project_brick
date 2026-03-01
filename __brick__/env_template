@@ -1,0 +1,6 @@
+# Environment variables for {{project_name}}
+# Copy this file to .env and fill in your actual values.
+
+SUPABASE_URL=your_supabase_url_here
+SUPABASE_ANON_KEY=your_anon_key_here
+SUPABASE_SERVICE_ROLE_KEY=your_service_role_key_here
