@@ -13,8 +13,8 @@ A Mason brick that scaffolds a complete Flutter project with Supabase integratio
 - **Custom theme system** with light/dark mode (AppColors & AppTextStyles extensions)
 - **SharedPreferences** caching helper
 - **Auth module** with login, register, and profile fetching
-- ** Multiple language support 
-- ** Dual theme mode support
+- **Multiple language support 
+- **Dual theme mode support
 
 ## Usage
 
